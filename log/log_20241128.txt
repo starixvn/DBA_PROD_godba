@@ -1,0 +1,234 @@
+2024-11-28 10:08 ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'vnLukas'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'vnLukas'. (18456)")
+2024-11-28 10:08 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:08 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:10 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:10 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:10 ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'dbo.ProductDetailMatrix'. (208) (SQLExecDirectW)")
+2024-11-28 10:10 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:10 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:10 ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'dbo.ProductDetailMatrix'. (208) (SQLExecDirectW)")
+2024-11-28 10:13 ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Please load databases" requested by the login. The login failed. (4060) (SQLDriverConnect); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Please load databases" requested by the login. The login failed. (4060)')
+2024-11-28 10:13 local variable 'qResult' referenced before assignment
+2024-11-28 10:13 ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Please load databases" requested by the login. The login failed. (4060) (SQLDriverConnect); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Please load databases" requested by the login. The login failed. (4060)')
+2024-11-28 10:15 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:15 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:15 ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'dbo.ProductDetailMatrix'. (208) (SQLExecDirectW)")
+2024-11-28 10:19 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:19 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:19 ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'dbo.Products'. (208) (SQLExecDirectW)")
+2024-11-28 10:20 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:20 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:28 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:28 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:29 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_001' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:29 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_002' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:29 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_003' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:29 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_004' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:29 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_005' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:29 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_006' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:29 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:29 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:34 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_001' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:34 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_002' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:34 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_002' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:34 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_003' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:34 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_004' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:34 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_005' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:34 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_006' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:34 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:58 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 10:58 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 11:00 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 11:00 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 11:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 11:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 11:02 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 11:02 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 11:02 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 11:02 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 11:04 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:46 ('Invalid parameter type.  param-index=0 param-type=builtin_function_or_method', 'HY105')
+2024-11-28 16:46 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:46 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_001' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_002' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_003' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_004' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_005' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_006' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_009' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_GroupProduct' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_ProductDetailMatrix_Sel' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_AddRelatedProducts' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'CompPlanDetails' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:48 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'CompPlanDetails2' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:48 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:48 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_001' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_002' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_003' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_004' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_005' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_006' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_009' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_GroupProduct' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_ProductDetailMatrix_Sel' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_AddRelatedProducts' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'CompPlanDetails' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:57 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'CompPlanDetails2' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:57 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 16:57 The first argument to execute must be a string or unicode query.
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_001' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_002' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_003' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_004' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_005' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_006' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_009' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_GroupProduct' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_ProductDetailMatrix_Sel' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_AddRelatedProducts' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'CompPlanDetails' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 16:59 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'CompPlanDetails2' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_001' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_002' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_003' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_004' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_005' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_006' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_007' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_008' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'sp_test_009' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_GroupProduct' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_ProductDetailMatrix_Sel' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'f_AddRelatedProducts' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'CompPlanDetails' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:01 ('42S01', "[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named 'CompPlanDetails2' in the database. (2714) (SQLExecDirectW)")
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.
+2024-11-28 17:05 ('The SQL contains 0 parameter markers, but 1 parameters were supplied', 'HY000')
+2024-11-28 17:05 The first argument to execute must be a string or unicode query.

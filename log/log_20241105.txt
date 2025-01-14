@@ -1,0 +1,9 @@
+2024-11-05 10:54 ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][Shared Memory]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionOpen (Connect()). (2)')
+2024-11-05 10:55 'NoneType' object has no attribute 'cbKBTDatabase'
+2024-11-05 10:59 'NoneType' object has no attribute 'cbKBTDatabase'
+2024-11-05 11:04 ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'vnLukas'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'vnLukas'. (18456)")
+2024-11-05 14:09 'TabShipLog' object has no attribute 'chkCopyDB_var'
+2024-11-05 14:09 'TabShipLog' object has no attribute 'chkCopyDB_var'
+2024-11-05 14:10 'TabShipLog' object has no attribute 'chkCopyDB_var'
+2024-11-05 14:13 'TabShipLog' object has no attribute 'chkCopyDB_var'
+2024-11-05 14:14 'TabShipLog' object has no attribute 'chkCopyDB_var'

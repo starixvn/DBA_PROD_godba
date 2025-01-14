@@ -1,0 +1,15 @@
+2024-06-05 14:55 ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'aaa'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'aaa'. (18456)")
+2024-06-05 14:56 ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sadf'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sadf'. (18456)")
+2024-06-05 14:57 ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sadfdf'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sadfdf'. (18456)")
+2024-06-05 15:00 start new instance
+2024-06-05 16:23 start new instance
+2024-06-05 16:23 start new instance
+2024-06-05 16:23 ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Please load databases" requested by the login. The login failed. (4060) (SQLDriverConnect); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Please load databases" requested by the login. The login failed. (4060)')
+2024-06-05 16:23 The first argument to execute must be a string or unicode query.
+2024-06-05 16:24 start new instance
+2024-06-05 16:25 The first argument to execute must be a string or unicode query.
+2024-06-05 16:26 start new instance
+2024-06-05 16:27  input your SP list here... definition is empty.
+2024-06-05 16:27 start new instance
+2024-06-05 16:27 ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Please load databases" requested by the login. The login failed. (4060) (SQLDriverConnect); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Please load databases" requested by the login. The login failed. (4060)')
+2024-06-05 16:27  'input your SP list here...adsfds' definition is empty.

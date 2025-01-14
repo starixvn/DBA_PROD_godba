@@ -1,0 +1,5 @@
+2024-11-04 15:38 start new instance
+2024-11-04 15:40 ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][Shared Memory]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionOpen (Connect()). (2)')
+2024-11-04 15:41 start new instance
+2024-11-04 17:02 start new instance
+2024-11-04 17:02 start new instance

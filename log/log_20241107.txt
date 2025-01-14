@@ -1,0 +1,2 @@
+2024-11-07 16:44 ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'vnLukas'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'vnLukas'. (18456)")
+2024-11-07 16:44 ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'vnLukas'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'vnLukas'. (18456)")
