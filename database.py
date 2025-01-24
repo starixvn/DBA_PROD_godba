@@ -228,15 +228,27 @@ def check_objecttype(dbserver, SQLlogin, pwd, objname, dbname='master'):
         return None
 
 
-def execute_a_query(dbserver, sqllogin, pwd, dbname, querytext):
+def execute_a_query(dbserver, sqllogin, pwd, dbname, querytext,trustedConnection=0):
     try:
-        conn = pyodbc.connect(
-            f"Driver={{SQL Server}};Server={dbserver};Database={dbname};uid={sqllogin};pwd={pwd}",
-            autocommit=True)
+        if trustedConnection ==1:
+            conn = pyodbc.connect(
+                f"Driver={{SQL Server}};Server={dbserver};Database={dbname};Trusted_Connection=yes;",
+                autocommit=True)
+        else:
+            conn = pyodbc.connect(
+                f"Driver={{SQL Server}};Server={dbserver};Database={dbname};uid={sqllogin};pwd={pwd}",
+                autocommit=True)
         cursor = conn.cursor()
         cursor.execute(querytext)
+        
+        result =[]
+        result.append(cursor.fetchall())
+        
         while cursor.nextset():
-            pass
+            result.append(cursor.fetchall())
+        cursor.close()
+        conn.close()    
+        return result
     except Exception as e:
         Applog.write_log(str(e))
 

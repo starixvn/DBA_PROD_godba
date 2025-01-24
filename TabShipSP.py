@@ -16,14 +16,14 @@ import pyodbc
 import re
 import Applog
 import database
-
+import configParser
 
 FONT_NAME = "Courier"
 
 class TabShipSP(tk.Frame):
     def __init__(self, parent):
         super().__init__(parent)
-
+        cf = configParser.configParser()
         # ============ add widgets for tab shipSP
         self.lbTitle = Label(self, text="Sync SP/Func & permission to DR", font=(FONT_NAME, 21))
         self.lbTitle.grid(column=0, row=0, columnspan=8, sticky="NWES")
@@ -34,8 +34,7 @@ class TabShipSP(tk.Frame):
         self.lbKBTServer = Label(self, text="Server:")
         self.lbKBTServer.grid(column=0, row=2, sticky="W")
 
-        with open("servers_list.cnf", mode="r") as json_file:
-            self.server_dictionary = json.load(json_file)
+        self.server_dictionary = cf.servers
         server_list = [key for key in self.server_dictionary]
         self.svServer_list = StringVar()
         self.svServer_list.set(server_list[0])

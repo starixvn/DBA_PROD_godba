@@ -17,13 +17,14 @@ from datetime import datetime
 import Applog
 import transferfile
 import database
-
+import configParser
 FONT_NAME = "Courier"
 LBF_WIDTH = 700
 
 class TabShipLog(tk.Frame):
     def __init__(self, parent):
         super().__init__(parent)
+        cf = configParser.configParser()
         self.databaseName = ''
         self.initbackupname = ''
         self.kbtserver = ''
@@ -39,8 +40,7 @@ class TabShipLog(tk.Frame):
         self.lbKBTServer = Label(self.kbtgroup, text="Server:")
         self.lbKBTServer.grid(column=0, row=2, sticky="W")
 
-        with open("servers_list.cnf", mode="r") as json_file:
-            self.server_dictionary = json.load(json_file)
+        self.server_dictionary = cf.servers
         server_list = [key for key in self.server_dictionary]
 
         self.svServer_list = StringVar()
